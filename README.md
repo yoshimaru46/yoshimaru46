@@ -1,3 +1,7 @@
-[![yoshimaru46's github stats](https://github-readme-stats.vercel.app/api?username=yoshimaru46&count_private=true&show_icons=true)](https://github.com/yoshimaru46/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshimaru46&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshimaru46)](https://github.com/yoshimaru46/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoshimaru46&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yoshimaru46&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshimaru46&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yoshimaru46&theme=default&utcOffset=8)
